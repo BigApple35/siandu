@@ -1,0 +1,18 @@
+PLS
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch daris-fe
+# Your branch is up to date with 'origin/daris-fe'.
+#
+# Changes to be committed:
+#	modified:   package-lock.json
+#	modified:   package.json
+#	modified:   src/pages/petugas/Dashboard.css
+#	modified:   src/pages/petugas/Dashboard.jsx
+#	modified:   src/pages/petugas/DataKader.jsx
+#	modified:   src/pages/petugas/DataPasien.jsx
+#	modified:   src/pages/petugas/PemeriksaanKesehatan.css
+#	modified:   src/pages/petugas/PemeriksaanKesehatan.jsx
+#	modified:   vite.config.js
+#
