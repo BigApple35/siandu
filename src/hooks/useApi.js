@@ -33,7 +33,7 @@ const apiCall = useCallback(async (endpoint, options = {}) => {
     const response = await fetch(url, {
       method: options.method || 'GET',
       headers: headers,
-      // credentials: 'include',
+      credentials: 'include',
       body: body, // <-- Use the prepared body
     });
 
