@@ -186,25 +186,6 @@ const LoginPage = () => {
             </button>
           </form>
 
-          <div className="auth-divider">
-            <span>atau</span>
-          </div>
-
-          <div className="social-login">
-            <button className="social-btn google-btn">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" alt="Google" />
-              Masuk dengan Google
-            </button>
-          </div>
-
-          <div className="auth-footer">
-            <p>
-              Belum punya akun?{' '}
-              <Link to="/register" className="auth-link">
-                Daftar sekarang
-              </Link>
-            </p>
-          </div>
         </motion.div>
 
         <motion.div

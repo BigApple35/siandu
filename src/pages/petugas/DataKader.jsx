@@ -560,7 +560,7 @@ function DataKader() {
                             <td>
                               <div className="kader-photo-cell">
                                 {kader.photo ? (
-                                  <img src={`http://localhost:3001/uploads/${kader.photo}`} alt={kader.name} className="kader-photo-small" />
+                                  <img src={`https://res.cloudinary.com/dayhm7k65/image/upload/v1758117768/${kader.photo}`} alt={kader.name} className="kader-photo-small" />
                                 ) : (
                                   <div className="kader-photo-placeholder">
                                     <Person />

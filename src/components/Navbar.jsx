@@ -131,9 +131,6 @@ const Navbar = () => {
                 <Link to="/login" className="login-button" onClick={closeMenu}>
                   Masuk
                 </Link>
-                <Link to="/register" className="register-button" onClick={closeMenu}>
-                  Daftar
-                </Link>
               </div>
             )}
           </motion.div>
